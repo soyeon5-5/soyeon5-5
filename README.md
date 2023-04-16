@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=false&color=gradient&text=Hellow)
 
 ### Hi 👋
 
