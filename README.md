@@ -1,6 +1,7 @@
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=false&color=gradient&text=Hellow)
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=false&color=gradient&text=Hellow&fontColor=d6ace6)
 
 ### Hi 👋
+
 
 
 
@@ -22,3 +23,6 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyeon5-5&show_icons=true&theme=radical)
+
+
+https://github.com/soeyon5-5/hit-counter
