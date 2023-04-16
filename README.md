@@ -1,4 +1,8 @@
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+
 ### Hi 👋
+
+
 
 <!--
 **soyeon5-5/soyeon5-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
